@@ -1,6 +1,6 @@
-# Big Data Analytics Pipeline
+# Data Analytics Pipeline
 
-This document describes a big data analytics pipeline built using Databricks and Apache Spark. The pipeline processes data from Amazon S3 and performs data transformation and analytics.
+This document describes a data analytics pipeline built using Databricks and Apache Spark. The pipeline processes data from Amazon S3 and performs data transformation and analytics.
 
 ## Architecture
 
